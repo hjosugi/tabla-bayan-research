@@ -24,6 +24,7 @@
 | INDEX.md | 概念 -> FINDINGS ID / docs の多言語索引。別表記の罠つき |
 | tools/notes_search.py | ノート全文検索 CLI |
 | crawler/ | Hindi/Bengali コーパス構築パイプライン (SQLite) |
+| search/ | コーパス検索エンジン。多言語クエリ展開 + FTS5。`python search/app.py` で http://localhost:8765 |
 | docs/01-anatomy.md | 打面の部位名 (日/英/ヒンディー/ベンガル) |
 | docs/02-physics.md | 膜振動・減衰モデル・スィヤヒの音響 |
 | docs/03-technique-ghe.md | Ghe 奏法の確定事項と流派差 |

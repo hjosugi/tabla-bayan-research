@@ -9,3 +9,9 @@ https://sathee.iitk.ac.in/ncert-books/class-11/sangeet/tabla-evm-pakhawaj/chapte
 https://www.nios.ac.in/media/documents/Hindustani_Music_242/242_practical_hindi/242_Practical-4.pdf
 https://granthagara.com/boi/331879-sachitra-tabla-shikkhsa-by-rabindra-kumar-basu/
 https://ccrma.stanford.edu/~pchordia/soloTablaNotes.htm
+# Indian music knowledgebases (structured data; also prior art for the search engine)
+https://www.swarganga.org/
+https://www.tablalegacy.com/types-of-compositions
+https://www.tablalegacy.com/kayda
+http://52kaidas.blogspot.com/
+https://www.taalgyan.com/theory/compositions-in-tabla/
