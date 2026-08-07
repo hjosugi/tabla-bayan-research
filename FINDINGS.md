@@ -69,6 +69,11 @@
 - claim: 強打で膜が非線形領域に入り基音以外にエネルギーが散る。弱打のほうが伸びる
 - kw: 非線形 nonlinear 強打 hard strike
 
+### P-13 周方向の張力ムラはモード分裂 → うなり → 体感サステイン短縮
+- status: 推定 (膜音響の標準論に整合、本件未実測)
+- claim: 調和性を支える準縮退モード対が不均一張力で分裂すると近接 2 周波のうなりが出て、減衰が速く濁って聞こえ、ベンド中の音程も揺れる。検査: 縁沿い 6-8 点を等強度で軽打しピッチ一致を聴く。単発でワウワウと脈打てば該当。対処はガジャラー/ガッターの均等化
+- kw: 張力ムラ uneven tension うなり beat beating モード分裂 mode splitting 検査 8点
+
 ---
 
 ## T: 奏法
@@ -129,6 +134,11 @@
 - claim: 左手ベンドの具体的推奨は文字化されていない (Courtney 本人が明言)。圧+スライドだけでメロディ演奏が可能な水準まである (Zakir Hussain)
 - kw: 変調 modulation 口伝 oral tradition Zakir Hussain スライド slide
 
+### T-12 ベンドは圧の量ではなく接触幾何の軌道
+- status: 有力 (TaalGyan コメント + Drum Magazine + 物理整合)
+- claim: グライドは打後にヒールをスィヤヒ方向へ転がす/滑らせる連続動作 (bow wow, Dha-a) で作る。据わりの firm さは腕の重さで、動きはローリングで作り、筋力の押し込みは使わない。偏心スィヤヒ近傍は高ゲイン制御点で、微小な重心移動で大きく音程が動く — 無意識の重心揺れがベンドの再現性を壊す
+- kw: 軌道 trajectory 転がす roll ローリング スライド slide 重さ weight bow wow स्वूप ghissa
+
 ---
 
 ## D: 診断
@@ -144,7 +154,7 @@
 - kw: ピッチベンド pitch bend 尾 tail sustain 診断 decisive
 
 ### D-03 「まったく違う音」= 意図しない Ka
-- status: 有力
+- status: 有力 (一般則) / 本件では棄却 (2026-08-07: 音は有音程の Ghe と確認 → D-05)
 - claim: 指が寝る/手首不在だと境界条件が変わり別のボルになる。「パタ/ボフ」無音程音は Ka 化のサイン
 - kw: 誤爆 wrong bol パタ ボフ slap 無音程 unpitched
 
@@ -152,6 +162,11 @@
 - status: 有力
 - claim: 正しい Ghe は指の跳ね返しのみで腕をほぼ使わない。疲労ループ: 指残留で減衰 → 力不足と誤解釈 → 腕から強打 → 過負荷
 - kw: 疲労 fatigue センサー sensor フォーム form 強打
+
+### D-05 有音程の Ghe だが伸び・ベンド質が目標と違う
+- status: 有力 (本件の現症状定義)
+- claim: Ka 誤爆ではない段階。第一容疑はベンドを静的な圧と誤解していること (T-12)。残差は張力ムラ (P-13) と比較対象の較正 (E-04)。自分の音も録音してから参照音源と比較する
+- kw: 有音程 pitched 伸び sustain ベンド質 bend quality 診断 residual
 
 ---
 
@@ -171,6 +186,11 @@
 - status: 未検証 (フォーラム 1 件のみ)
 - claim: 下オクターブの Ga/Pa/Ma あたりに合わせる慣習があるとの記述
 - kw: 音程 pitch Ga Pa Ma 下オクターブ lower octave
+
+### E-04 比較対象の較正
+- status: 有力
+- claim: 参照音源はコンサート級の胴 + 熟成皮 + 密着マイク + 部屋の合成物。学生グレードの生音との差の一部は奏法差ではない。生耳と録音を直接比べない — 自分の音も録音して比較する
+- kw: 較正 calibration 録音 recording 楽器グレード instrument grade 比較 comparison
 
 ---
 
