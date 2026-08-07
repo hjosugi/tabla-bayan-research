@@ -1,0 +1,13 @@
+# Two independent query families for capture-recapture recall estimation.
+# Family A: part terms
+A1: डग्गा घे बजाने की विधि
+A2: बायाँ कलाई मैदान तबला
+A3: तबला स्याही डग्गा बीच में क्यों नहीं
+A4: বাঁয়া ঘে বাজানোর নিয়ম
+A5: bayan ghe technique wrist
+# Family B: action terms
+B1: तबला घे गूंज नहीं आती
+B2: तबला बायें हाथ का दबाव पिच
+B3: घिस्सा कैसे बजाएं
+B4: তবলা বাঁ হাতের চাপ
+B5: tabla bass sustain problem

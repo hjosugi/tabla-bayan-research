@@ -1,0 +1,3 @@
+crawler/corpus.db
+crawler/corpus.db-*
+__pycache__/
