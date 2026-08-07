@@ -15,8 +15,15 @@
 
 ## 構成
 
+読む順: FINDINGS.md (主張台帳、正典) → INDEX.md (多言語索引) → docs/ (読み物)。
+全文検索: `python tools/notes_search.py <query>` (日/EN/HI/BN 対応、FTS5 trigram + 短語 LIKE)。
+
 | ファイル | 内容 |
 |---|---|
+| FINDINGS.md | 全知見の主張台帳。ID + status (確定/割れる/推定/棄却) + 多言語 kw |
+| INDEX.md | 概念 -> FINDINGS ID / docs の多言語索引。別表記の罠つき |
+| tools/notes_search.py | ノート全文検索 CLI |
+| crawler/ | Hindi/Bengali コーパス構築パイプライン (SQLite) |
 | docs/01-anatomy.md | 打面の部位名 (日/英/ヒンディー/ベンガル) |
 | docs/02-physics.md | 膜振動・減衰モデル・スィヤヒの音響 |
 | docs/03-technique-ghe.md | Ghe 奏法の確定事項と流派差 |
